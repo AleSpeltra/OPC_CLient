@@ -31,7 +31,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 50.0
+      Value: 380.0
   - Name: TextBox1
     Type: TextBox
     Children:
